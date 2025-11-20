@@ -1,6 +1,6 @@
 <h1>EX-6 : IMPLEMENT MINIMAX SEARCH ALGORITHM FOR A SIMPLE TIC-TAC-TOE GAME</h1> 
-<h4>NAME : K KESAVA SAI </h4>
-<h4>R.NO : 212223230105 </h4>
+<h4>NAME : SHIVAA PALANIYAPPAN V </h4>
+<h4>R.NO : 212223110050 </h4>
 <H2>AIM :</H4>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
